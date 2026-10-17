@@ -63,7 +63,7 @@ The customer most likely to accept Campaign 6 is **highly educated** (especially
 SAS (`PROC IMPORT`, `PROC FREQ`, `PROC LOGISTIC`)
 
 *members:*
-*Lindokuhle Machangu*
-*Sthembelo Meyiwa*
-*Luyanda Myeza*
+*Lindokuhle Machangu,*
+*Sthembelo Meyiwa,*
+*Luyanda Myeza, &*
 *Phakamani Majola*
